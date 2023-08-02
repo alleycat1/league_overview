@@ -6,6 +6,7 @@ class Config {
     public $API_calls = 0;
     public function query($endpoint = '') {
         $this->API_calls++;
+        global $key;
         $this->api_key = $key;
         $link = "https://api-football-v1.p.rapidapi.com/v3/$endpoint";
         

@@ -51,7 +51,7 @@ date_default_timezone_set($_SESSION['user_timezone']);
  
                     <div style="width: 130px; color: var(--secondary-one);">
                         <?php
-                      echo $fx['fixture']['formattedKickoff'];
+                      if(isset($fx['fixture'])) echo $fx['fixture']['formattedKickoff'];
                       
                         ?>
                     </div>
