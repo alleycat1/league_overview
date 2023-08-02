@@ -1,0 +1,199 @@
+[22-May-2023 15:36:36 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/monexapp/latestscore.net/files/navigation/football/fixture.php on line 4
+[22-May-2023 15:36:37 UTC] PHP Warning:  Undefined array key "user_timezone" in /home/monexapp/latestscore.net/files/navigation/football/fixture.php on line 5
+[22-May-2023 15:36:37 UTC] PHP Deprecated:  date_default_timezone_set(): Passing null to parameter #1 ($timezoneId) of type string is deprecated in /home/monexapp/latestscore.net/files/navigation/football/fixture.php on line 5
+[22-May-2023 15:36:37 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID '' is invalid in /home/monexapp/latestscore.net/files/navigation/football/fixture.php on line 5
+[22-May-2023 15:38:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/monexapp/latestscore.net/files/navigation/football/team.php on line 24
+[22-May-2023 15:38:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/monexapp/latestscore.net/files/navigation/football/team.php on line 24
+[22-May-2023 15:38:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/monexapp/latestscore.net/files/navigation/football/team.php on line 25
+[22-May-2023 15:38:06 UTC] User timezone: UTC
+[22-May-2023 15:38:06 UTC] Timezone index: 
+[22-May-2023 15:38:06 UTC] User timezone for DateTime: UTC
+[22-May-2023 15:38:06 UTC] User timezone: UTC
+[22-May-2023 15:38:06 UTC] Timezone index: 
+[22-May-2023 15:38:06 UTC] User timezone for DateTime: UTC
+[22-May-2023 15:38:07 UTC] PHP Warning:  Undefined array key 25 in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 225
+[22-May-2023 15:38:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 226
+[22-May-2023 15:38:07 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 227
+[22-May-2023 15:38:07 UTC] PHP Warning:  Undefined array key 24 in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 225
+[22-May-2023 15:38:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 226
+[22-May-2023 15:38:07 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 227
+[22-May-2023 15:38:07 UTC] PHP Warning:  Undefined array key 23 in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 225
+[22-May-2023 15:38:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 226
+[22-May-2023 15:38:07 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 227
+[22-May-2023 15:38:07 UTC] PHP Warning:  Undefined array key 22 in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 225
+[22-May-2023 15:38:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 226
+[22-May-2023 15:38:07 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 227
+[22-May-2023 15:38:07 UTC] PHP Warning:  Undefined array key 21 in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 225
+[22-May-2023 15:38:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 226
+[22-May-2023 15:38:07 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 227
+[22-May-2023 15:38:07 UTC] PHP Warning:  Undefined array key 20 in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 225
+[22-May-2023 15:38:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 226
+[22-May-2023 15:38:07 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 227
+[22-May-2023 15:38:07 UTC] PHP Warning:  Undefined array key 19 in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 225
+[22-May-2023 15:38:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 226
+[22-May-2023 15:38:07 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 227
+[22-May-2023 15:38:07 UTC] PHP Warning:  Undefined array key 18 in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 225
+[22-May-2023 15:38:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 226
+[22-May-2023 15:38:07 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 227
+[22-May-2023 15:38:07 UTC] PHP Warning:  Undefined array key 17 in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 225
+[22-May-2023 15:38:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 226
+[22-May-2023 15:38:07 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 227
+[22-May-2023 15:38:07 UTC] PHP Warning:  Undefined array key 16 in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 225
+[22-May-2023 15:38:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 226
+[22-May-2023 15:38:07 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 227
+[22-May-2023 15:38:07 UTC] PHP Warning:  Undefined array key 15 in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 225
+[22-May-2023 15:38:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 226
+[22-May-2023 15:38:07 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 227
+[22-May-2023 15:38:07 UTC] PHP Warning:  Undefined array key 14 in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 225
+[22-May-2023 15:38:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 226
+[22-May-2023 15:38:07 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 227
+[22-May-2023 15:38:07 UTC] PHP Warning:  Undefined array key 13 in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 225
+[22-May-2023 15:38:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 226
+[22-May-2023 15:38:07 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 227
+[22-May-2023 15:38:07 UTC] PHP Warning:  Undefined array key 12 in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 225
+[22-May-2023 15:38:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 226
+[22-May-2023 15:38:07 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 227
+[22-May-2023 15:38:07 UTC] PHP Warning:  Undefined array key 11 in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 225
+[22-May-2023 15:38:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 226
+[22-May-2023 15:38:07 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 227
+[22-May-2023 15:38:07 UTC] PHP Warning:  Undefined array key 10 in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 225
+[22-May-2023 15:38:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 226
+[22-May-2023 15:38:07 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 227
+[22-May-2023 15:38:07 UTC] PHP Warning:  Undefined array key 9 in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 225
+[22-May-2023 15:38:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 226
+[22-May-2023 15:38:07 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 227
+[22-May-2023 15:38:07 UTC] PHP Warning:  Undefined array key 8 in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 225
+[22-May-2023 15:38:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 226
+[22-May-2023 15:38:07 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 227
+[22-May-2023 15:38:07 UTC] PHP Warning:  Undefined array key 7 in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 225
+[22-May-2023 15:38:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 226
+[22-May-2023 15:38:07 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 227
+[22-May-2023 15:38:07 UTC] PHP Warning:  Undefined array key 6 in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 225
+[22-May-2023 15:38:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 226
+[22-May-2023 15:38:07 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 227
+[22-May-2023 15:38:07 UTC] PHP Warning:  Undefined array key 5 in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 225
+[22-May-2023 15:38:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 226
+[22-May-2023 15:38:07 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 227
+[22-May-2023 15:38:07 UTC] PHP Warning:  Undefined array key 4 in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 225
+[22-May-2023 15:38:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 226
+[22-May-2023 15:38:07 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 227
+[22-May-2023 15:38:07 UTC] PHP Warning:  Undefined array key 3 in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 225
+[22-May-2023 15:38:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 226
+[22-May-2023 15:38:07 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 227
+[22-May-2023 15:38:07 UTC] PHP Warning:  Undefined array key 2 in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 225
+[22-May-2023 15:38:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 226
+[22-May-2023 15:38:07 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 227
+[22-May-2023 15:38:07 UTC] PHP Warning:  Undefined array key 1 in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 225
+[22-May-2023 15:38:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 226
+[22-May-2023 15:38:07 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 227
+[22-May-2023 15:38:07 UTC] PHP Warning:  Undefined array key 0 in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 225
+[22-May-2023 15:38:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 226
+[22-May-2023 15:38:07 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/monexapp/latestscore.net/files/navigation/football/team/summary.php on line 227
+[22-May-2023 15:39:04 UTC] PHP Warning:  Undefined variable $counter in /home/monexapp/latestscore.net/files/navigation/football/league/results.php on line 21
+[22-May-2023 15:39:48 UTC] User timezone: UTC
+[22-May-2023 15:39:48 UTC] Timezone index: 
+[22-May-2023 15:39:48 UTC] User timezone for DateTime: UTC
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2023-05-20 15:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2023-05-14 14:30:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2023-05-07 13:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2023-05-03 19:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2023-04-29 19:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2023-04-23 13:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2023-04-16 13:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2023-04-09 15:05:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2023-04-05 19:10:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2023-04-02 13:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2023-03-17 20:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2023-03-12 14:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2023-03-04 20:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2023-03-01 17:15:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2023-02-26 14:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2023-02-23 17:45:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2023-02-19 16:05:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2023-02-16 20:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2023-02-12 16:05:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2023-02-08 17:15:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2023-02-05 14:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2023-02-01 18:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2023-01-29 14:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2023-01-22 17:30:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2023-01-15 14:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2023-01-11 18:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2023-01-07 17:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2023-01-01 14:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2022-12-28 14:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2022-12-21 17:30:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2022-12-16 14:30:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2022-11-13 14:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2022-11-06 14:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2022-11-03 17:45:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2022-10-30 14:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2022-10-27 19:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2022-10-23 15:05:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2022-10-16 13:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2022-10-13 16:45:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2022-10-09 15:05:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2022-10-06 19:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2022-10-02 15:05:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2022-09-18 15:05:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2022-09-15 16:45:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2022-09-11 13:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2022-09-08 19:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2022-09-03 19:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2022-08-31 17:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2022-08-28 11:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2022-08-20 19:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2022-08-12 19:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2022-08-07 13:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2022-07-31 18:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2022-07-27 15:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2022-07-23 14:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2022-07-16 15:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2022-07-13 14:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2022-07-13 00:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2022-05-21 19:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2022-05-14 19:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2022-05-11 19:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2022-05-07 19:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2022-04-30 15:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2022-04-24 13:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2022-04-20 19:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2022-04-17 13:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2022-04-10 13:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2022-04-03 13:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2022-03-19 20:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2022-03-12 20:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2022-03-06 14:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2022-03-02 20:15:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2022-02-27 14:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2022-02-19 20:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2022-02-13 14:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2022-02-10 20:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2022-02-06 14:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2022-01-28 20:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2022-01-23 14:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2022-01-14 20:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2022-01-09 16:05:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2022-01-02 12:45:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2021-12-22 20:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2021-12-18 15:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2021-12-10 20:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2021-12-05 14:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2021-12-01 20:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2021-11-27 16:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2021-11-20 16:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2021-11-07 14:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2021-10-31 14:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2021-10-23 15:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2021-10-17 13:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2021-10-03 13:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2021-09-26 13:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2021-09-22 17:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2021-09-19 13:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2021-09-12 15:00:00
+[22-May-2023 15:39:48 UTC] Adjusted date and time: 2021-08-27 19:00:00
+[22-May-2023 15:39:48 UTC] User timezone: UTC
+[22-May-2023 15:39:48 UTC] Timezone index: 
+[22-May-2023 15:39:49 UTC] User timezone for DateTime: UTC
+[22-May-2023 15:39:49 UTC] Adjusted date and time: 2023-05-27 19:00:00
+[22-May-2023 15:39:49 UTC] Adjusted date and time: 2023-06-03 19:00:00

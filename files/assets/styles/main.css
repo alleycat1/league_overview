@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    transition: 0.4s all;
+}
+html,
+body {
+    height: 100%;
+    background-color: var(--primary-bg);
+    font-size: 12px;
+}
+.main {
+    transition: 0s;
+}
+.wd {
+    max-width: 1050px;
+}
+
+

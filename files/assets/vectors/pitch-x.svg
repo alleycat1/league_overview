@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1364.859 839.042">
+  <g id="Group_3" data-name="Group 3" transform="translate(-258.258 -119.859)">
+    <path id="Path_1" data-name="Path 1" d="M278.775,122.551s-2.062,14.546-17.524,17.638" fill="none" stroke-width="4"/>
+    <g id="Group_1" data-name="Group 1">
+      <path id="Path_2" data-name="Path 2" d="M477.847,447.4s50.075,29.692,46.8,92.1" fill="none" stroke-width="4"/>
+      <path id="Path_3" data-name="Path 3" d="M478.872,626.947s45.1-25.357,45.874-88.071" fill="none" stroke-width="4"/>
+    </g>
+    <path id="Path_4" data-name="Path 4" d="M260.941,287.613h216.4v502H260.437Z" fill="none" stroke-width="4"/>
+    <path id="Path_5" data-name="Path 5" d="M260.437,656.5h71.715V420.726H260.689" fill="none" stroke-width="4"/>
+    <path id="Path_6" data-name="Path 6" d="M260.258,122.094V956.9H1621.117V121.859H259.731" fill="none" stroke-width="4"/>
+    <path id="Path_7" data-name="Path 7" d="M940.424,121.859V956.831" fill="none" stroke-width="4"/>
+    <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(934 533)" fill="none" stroke-width="4">
+      <circle cx="6" cy="6" r="6" stroke="none"/>
+      <circle cx="6" cy="6" r="4" fill="none"/>
+    </g>
+    <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(825 424)" fill="none" stroke-width="4">
+      <circle cx="115" cy="115" r="115" stroke="none"/>
+      <circle cx="115" cy="115" r="113" fill="none"/>
+    </g>
+    <path id="Path_8" data-name="Path 8" d="M278.775,122.551s-2.062,14.546-17.524,17.638" transform="translate(1743.384 -139.392) rotate(90)" fill="none" stroke-width="4"/>
+    <path id="Path_9" data-name="Path 9" d="M278.775,122.551s-2.062,14.546-17.524,17.638" transform="translate(1882.369 1079.453) rotate(180)" fill="none" stroke-width="4"/>
+    <path id="Path_10" data-name="Path 10" d="M278.775,122.551s-2.062,14.546-17.524,17.638" transform="translate(137.985 1218.153) rotate(-90)" fill="none" stroke-width="4"/>
+    <path id="Path_11" data-name="Path 11" d="M1620.9,420.988h-73.684V656.822h73.609" fill="none" stroke-width="4"/>
+    <path id="Path_12" data-name="Path 12" d="M1621.038,287.772l-219.492-.034L1401.34,789.8h219.37" fill="none" stroke-width="4"/>
+    <g id="Group_2" data-name="Group 2" transform="matrix(-1, -0.017, 0.017, -1, 1869.199, 1083.608)">
+      <path id="Path_2-2" data-name="Path 2" d="M476.092,447.464s51.829,29.628,48.558,92.032" fill="none" stroke-width="4"/>
+      <path id="Path_3-2" data-name="Path 3" d="M478.872,626.947s45.1-25.357,45.874-88.071" fill="none" stroke-width="4"/>
+    </g>
+  </g>
+</svg>

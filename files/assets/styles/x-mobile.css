@@ -1,0 +1,84 @@
+@media screen and (max-width: 900px) {
+    main > .right {
+        display: none;
+    }
+}
+/*
+@media screen and (max-width: 680px) {
+    main {
+        padding: 30px 0;
+    }
+    */
+  @media screen and (max-width: 680px) {
+    main {
+       display: none;
+    }  
+    
+    /*
+    main > .left {
+        display: none;
+    }
+*/
+    /* PITCH */
+    #pitch-y {
+        display: block;
+        /* max-width: 400px; */
+    }
+    #pitch-x {
+        display: none;
+    }
+    .players-position #pitch-side-2 {
+        flex-direction: column-reverse;
+    }
+    .players-position > div {
+        flex-direction: column;
+        width: 100%;
+        height: 50%;
+        /* justify-content: space-evenly; */
+    }
+    .players-position {
+        flex-direction: column;
+    }
+    .players-position div.line {
+        height: 20%;
+        width: 100%;
+    }
+    .players-position #pitch-side-1 div.line {
+        flex-direction: row;
+        align-items: flex-start;
+        /* height: 19%;
+        margin-top: -10px; */
+    }
+    .players-position #pitch-side-1 .player-name {
+        margin-top: -7px;
+    }
+    .players-position #pitch-side-2 div.line {
+        flex-direction: row-reverse;
+        align-items: self-end;
+    }
+}
+@media screen and (max-width: 500px) {
+    #loader {
+        display: none;
+    }
+    .data-table > section .label img {
+        width: 17px;
+        flex-shrink: 0;
+    }
+    main .middle > * {
+        /* margin: 0 10px; */
+    }
+    .mylineup .line > a {
+        transform: scale(0.9);
+    }
+    .table-wrapper .team-name {
+        flex-grow: unset;
+        width: 150px;
+    }
+    .league-logo-home {
+        display: none;
+    }
+    .data-table > section .label .arrow-icons {
+        margin-left: 15px;
+    }
+}

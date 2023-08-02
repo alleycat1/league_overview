@@ -1,0 +1,15 @@
+.theme-dark {
+    --primary-bg: #010a0f;
+    --primary-main: #001e28;
+    --primary-two: #0f2d37;
+    --primary-three: #1b4452;
+    --neutral-one: #999999;
+    --neutral-light: #eee;
+    --secondary: #3cecec;
+    --secondary-light: #ff7a9d;
+    --secondary-one: #ffcd00;
+    --border-one: #0f1618;
+    --item-bg: #2f3538;
+    --item-bg2: #555e61;
+    --table-bg: #00141e;
+}

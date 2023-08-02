@@ -1,0 +1,42 @@
+#loader {
+    position: fixed;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 99999;
+}
+#loader > div {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    inset: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    transition: 1s all;
+}
+#loader > div > div {
+    transform: scale(0);
+    position: absolute;
+    width: 200px;
+    background-color: #fff;
+    border-radius: 15px;
+    padding: 20px;
+    transition: 0.1s all;
+}
+#loader.show > div > div {
+    transition: 0.5s all;
+    transform: scale(1);
+}
+#loader img {
+    animation: loader-disk1 1.5s linear 0s infinite;
+    width: 30px;
+    height: 30px;
+}
+
+@keyframes loader-disk1 {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}

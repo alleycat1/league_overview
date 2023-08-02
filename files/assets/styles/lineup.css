@@ -1,0 +1,66 @@
+#pitch-y {
+    display: none;
+    stroke: var(--primary-three);
+}
+#pitch-x {
+    display: block;
+    stroke: var(--primary-three);
+}
+
+.players-position {
+    display: flex;
+}
+.players-position > div {
+    width: 50%;
+    flex-shrink: 0;
+    display: flex;
+    justify-content: space-between;
+}
+.players-position #pitch-side-2 {
+    flex-direction: row-reverse;
+}
+.players-position div.line {
+    width: 20%;
+    flex-shrink: 0;
+    display: flex;
+    justify-content: space-evenly;
+}
+.players-position #pitch-side-1 div.line {
+    flex-direction: column-reverse;
+}
+.players-position #pitch-side-2 div.line {
+    flex-direction: column;
+}
+.player-name {
+    white-space: none;
+    word-break: none;
+    margin-top: 4px;
+    z-index: 1;
+}
+.lineup-shirt {
+    position: relative;
+}
+.lineup-shirt .card-yellow,
+.soccer-icons .card-yellow {
+    fill: #ff0;
+}
+.lineup-shirt .card-red,
+.soccer-icons .card-red {
+    fill: #f00;
+}
+.lineup-shirt .sub {
+    left: 15px;
+}
+.lineup-shirt > span {
+    position: absolute;
+    top: -6px;
+    left: 0;
+}
+.lineup-shirt .others > span {
+    width: 15px;
+    background-color: var(--primary-main);
+    border-radius: 3px;
+    padding: 2px;
+    z-index: 1;
+    border: 1px solid var(--primary-three);
+}
